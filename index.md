@@ -1,5 +1,5 @@
 # 📝 Case Study Presentation  by Victor Adedokun  
-# # #  Highlight role, impact, and process plus collaboration.
+###  Highlight role, impact, process, plus collaboration.
 ---
 
 ## Project Overview
