@@ -1,6 +1,5 @@
-# 📝 Case Study Presentation  
-**Candidate:** Victor Adedokun  
-
+# 📝 Case Study Presentation  by Victor Adedokun  
+# # #  Highlight role, impact, and process plus collaboration.
 ---
 
 ## Project Overview
@@ -11,7 +10,7 @@ Review microcopy and improve where necessary
 ### Objectives
 - Check UI texts for clarity and consistency
 - Review all error messages: Must state the problem and tell users what to do
-- Check if tone and voice are suitable for intended audience 
+- Check if tone and voice are suitable for the intended audience 
 - Check for tooltips where necessary
 - Check for jargon
 
